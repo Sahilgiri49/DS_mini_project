@@ -1,0 +1,6 @@
+{
+  "name": "AlgoPulse - Dynamic Sorting Algorithm Visualizer",
+  "description": "Dynamic sorting algorithm visualizer with clean Python logic, step-by-step playback, sound effects, error buzzer, and algorithm race mode for college demonstration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
